@@ -1,0 +1,21 @@
+.sortable_list_element {
+    color: black;
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid silver;
+    border-radius: 15px;
+    user-select: none;
+}
+
+.sortable_list_container {
+  background-color: rgb(249, 249, 249);
+}
+
+.answer_ok {
+    border: 1px solid forestgreen;
+}
+
+.answer_ko {
+    border: 1px solid crimson;
+}

@@ -8,7 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-sortable-hoc": "1.11.0",
+    "array-move": "2.2.1",
+    "bootstrap": "4.4.1",
+    "clone-deep": "4.0.1",
+    "pick-random": "2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
