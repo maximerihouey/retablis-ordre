@@ -2,10 +2,12 @@
     color: black;
     background-color: white;
     padding: 20px;
+    padding-top: 25px;
     margin: 5px;
     border: 1px solid silver;
     border-radius: 15px;
     user-select: none;
+    font-size: 15px;
 }
 
 .sortable_list_container {
@@ -18,4 +20,12 @@
 
 .answer_ko {
     border: 1px solid crimson;
+}
+
+.date_display {
+    color: rgb(56,56,56);
+    float: right;
+    margin-right: -10px;
+    margin-top: -23px;
+    font-size: 14px;
 }

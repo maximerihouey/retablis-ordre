@@ -25,18 +25,24 @@ export default class GameBoard extends React.Component {
     }
   };
 
+  newGame = () => {
+    window.location.reload();
+  };
+
   render() {
     if (this.state.stillPlaying) {
         return (
             <div className="container">
             <div className="row">
                 <div className="col">
-                <Timeline items={this.state.items} onSortEnd={this.onSortEnd} lockAxis="y" disabled={false} />
+                <Timeline items={this.state.items} onSortEnd={this.onSortEnd} lockAxis="y" disabled={false} displayDate={false} />
                 </div>
                 <div className="col">
                 </div>
              </div>
-            <button type="button" onClick={this.donePlaying} className="btn btn-primary">Test</button>
+             <div className="submit_button_wrapper">
+                <button type="button" onClick={this.donePlaying} className="btn btn-primary submit_button">Soumettre</button>
+            </div>
             </div>
         )
     } else {
@@ -62,12 +68,15 @@ export default class GameBoard extends React.Component {
             <div className="container">
             <div className="row">
                 <div className="col">
-                <Timeline items={itemsWithFlag} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} />
+                <Timeline items={itemsWithFlag} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} displayDate={false} />
                 </div>
                 <div className="col">
-                <Timeline items={sortedItems} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} />
+                <Timeline items={sortedItems} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} displayDate={true} />
                 </div>
              </div>
+             <div className="submit_button_wrapper">
+                <button type="button" onClick={this.newGame} className="btn btn-warning submit_button">Nouvelle Partie</button>
+            </div>
             </div>
         )
     }
