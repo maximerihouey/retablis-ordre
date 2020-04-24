@@ -81,6 +81,17 @@ class GameData {
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
             {"name": '☠️ Mort Cardinal Mazarin', "date": new Date("1661-03-09")},
             {"name": 'Victoire de Marco Pantani sur le tour de France, "date": new Date("1998-08-02")},
+            {"name": '🍺️ Reinheitsgebot (Décret sur la pureté de la bière)', "date": new Date("1516-10-01")},
+            {"name": '🎓️ Aristide Briand prix Nobel de la Paix', "date": new Date("1926-12-10")},
+            {"name": '🎓️ Marie Curie prix Nobel Physique', "date": new Date("1903-12-10")},
+            {"name": '🎓️ Marie Curie prix Nobel Chimie', "date": new Date("1911-12-10")},
+            {"name": '🎞️ Le Mépris', "date": new Date("1963-12-20")},
+            {"name": '📢️ "Je vous ai compris" (Charles de Gaulle)', "date": new Date("1958-06-04")},
+            {"name": '📢️ "Win the "yes" needs the "no" to win against the "no"" (Jean-Pierre Raffarin)', "date": new Date("2004-10-29")},
+            {"name": '🎾️ Finale Lendl–McEnroe à Roland-Garros', "date": new Date("1984-06-10")},
+            {"name": '👃️ Coup d\'éclat de Jacques Chirac à Jérusalem', "date": new Date("1996-10-22")},
+            {"name": '💪️ Départ du premier Tour de France', "date": new Date("1903-07-01")},
+            {"name": '💪️ Vincent Defrasne est sacré chammpion olympique de la poursuite', "date": new Date("2006-02-18")},
         ]
         this.size = this.data.length
     }
