@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/retablis-ordre/static/css/main.0a7d1b0b.chunk.css",
-    "main.js": "/retablis-ordre/static/js/main.c488cee6.chunk.js",
-    "main.js.map": "/retablis-ordre/static/js/main.c488cee6.chunk.js.map",
+    "main.css": "/retablis-ordre/static/css/main.95f0b24e.chunk.css",
+    "main.js": "/retablis-ordre/static/js/main.1ac67501.chunk.js",
+    "main.js.map": "/retablis-ordre/static/js/main.1ac67501.chunk.js.map",
     "runtime-main.js": "/retablis-ordre/static/js/runtime-main.b16f098a.js",
     "runtime-main.js.map": "/retablis-ordre/static/js/runtime-main.b16f098a.js.map",
     "static/css/2.69121389.chunk.css": "/retablis-ordre/static/css/2.69121389.chunk.css",
     "static/js/2.49a1ba58.chunk.js": "/retablis-ordre/static/js/2.49a1ba58.chunk.js",
     "static/js/2.49a1ba58.chunk.js.map": "/retablis-ordre/static/js/2.49a1ba58.chunk.js.map",
     "index.html": "/retablis-ordre/index.html",
-    "precache-manifest.220bd4d7a543c94ac919e56a609bfd2f.js": "/retablis-ordre/precache-manifest.220bd4d7a543c94ac919e56a609bfd2f.js",
+    "precache-manifest.dcf75763611d5cafea8e3639758954c0.js": "/retablis-ordre/precache-manifest.dcf75763611d5cafea8e3639758954c0.js",
     "service-worker.js": "/retablis-ordre/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/retablis-ordre/static/css/2.69121389.chunk.css.map",
-    "static/css/main.0a7d1b0b.chunk.css.map": "/retablis-ordre/static/css/main.0a7d1b0b.chunk.css.map",
+    "static/css/main.95f0b24e.chunk.css.map": "/retablis-ordre/static/css/main.95f0b24e.chunk.css.map",
     "static/js/2.49a1ba58.chunk.js.LICENSE.txt": "/retablis-ordre/static/js/2.49a1ba58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b16f098a.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.49a1ba58.chunk.js",
-    "static/css/main.0a7d1b0b.chunk.css",
-    "static/js/main.c488cee6.chunk.js"
+    "static/css/main.95f0b24e.chunk.css",
+    "static/js/main.1ac67501.chunk.js"
   ]
 }
