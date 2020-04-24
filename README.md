@@ -1,3 +1,14 @@
+Hosted at: https://maximerihouey.github.io/retablis-ordre/
+
+To add events modify the file: https://github.com/maximerihouey/retablis-ordre/blob/master/src/components/GameWrapper/data.js
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
