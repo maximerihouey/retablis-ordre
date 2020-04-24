@@ -93,6 +93,9 @@ class GameData {
             {"name": '💪️ Départ du premier Tour de France', "date": new Date("1903-07-01")},
             {"name": '💪️ Vincent Defrasne est sacré chammpion olympique de la poursuite', "date": new Date("2006-02-18")},
             {"name": '🎾️ "You cannot be serious" John McEnroe', "date": new Date("1981-06-22")},
+            {"name": '🎵️ One Way Ticket (Eruption)', "date": new Date("1979-04-21")},
+            {"name": '🎵️ It\'s Not Unusual (Tom Jones)', "date": new Date("1965-01-19")},
+            {"name": '🎵️ Sunday Bloody Sunday (U2)', "date": new Date("1983-03-21")},
         ]
         this.size = this.data.length
     }
