@@ -102,6 +102,11 @@ class GameData {
             {"name": 'Ouverture du premier Concile de Nicée, "date": new Date("325-05-20")},
             {"name": '⚔️ Prise de Jérusalem par les croisés, "date": new Date("1099-07-15")},
             {"name": '⚔️ Capitulation du Japon à la fin de la seconde guerre mondiale, "date": new Date("1945-09-02")},
+            {"name": '🎾️ "You cannot be serious" John McEnroe', "date": new Date("1981-06-22")},
+            {"name": '🎵️ One Way Ticket (Eruption)', "date": new Date("1979-04-21")},
+            {"name": '🎵️ It\'s Not Unusual (Tom Jones)', "date": new Date("1965-01-19")},
+            {"name": '🎵️ Sunday Bloody Sunday (U2)', "date": new Date("1983-03-21")},
+
         ]
         this.size = this.data.length
     }
