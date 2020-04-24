@@ -9,7 +9,9 @@ export default class GameWrapper extends React.Component {
   render() {
     var items = new GameData().someRandomEvents();
     return (
-        <GameBoard items={items} />
+        <div className="gameboard">
+            <GameBoard items={items} />
+        </div>
     )
   }
 }

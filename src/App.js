@@ -6,13 +6,9 @@ import GameWrapper from './components/GameWrapper';
 
 function App() {
   return (
-    <div className="fullBody">
-      <header>
+    <div className="container">
         <h1>Rétablis l'ordre</h1>
-      </header>
-      <main>
         <GameWrapper value="wesh" />
-      </main>
     </div>
   );
 }

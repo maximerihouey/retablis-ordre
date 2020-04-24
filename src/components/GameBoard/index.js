@@ -34,10 +34,10 @@ export default class GameBoard extends React.Component {
         return (
             <div className="container">
             <div className="row">
-                <div className="col">
+                <div className="col-sm">
                 <Timeline items={this.state.items} onSortEnd={this.onSortEnd} lockAxis="y" disabled={false} displayDate={false} />
                 </div>
-                <div className="col">
+                <div className="col-sm">
                 </div>
              </div>
              <div className="submit_button_wrapper">
@@ -67,10 +67,10 @@ export default class GameBoard extends React.Component {
       return (
             <div className="container">
             <div className="row">
-                <div className="col">
+                <div className="col-sm">
                 <Timeline items={itemsWithFlag} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} displayDate={false} />
                 </div>
-                <div className="col">
+                <div className="col-sm">
                 <Timeline items={sortedItems} onSortEnd={this.onSortEnd} lockAxis="y" disabled={true} displayDate={true} />
                 </div>
              </div>
