@@ -16,7 +16,7 @@ class GameData {
             {"name": '⚽️ 1ère Finale de la Coupe des clubs champions européens', "date": new Date("1956-06-13")},
             {"name": '🎵️ André Rieu jour "Les Corons" à Bollaert', "date": new Date("2005-02-19")},
             {"name": '🎵️ "Bo le lavabo (WC Kiss)" (Vincent Lagaf\')', "date": new Date("1990-03-01")},
-            {"name": '👑️ Sacre de Napoléon Ier', "date": new Date("1804-05-18")},
+            {"name": '👑️ Sacre de Napoléon Ier', "date": new Date("1804-12-02")},
             {"name": '👨‍🚀️ "Un petit pas pour l\'homme, un bond de géant pour l\'humanité"', "date": new Date("1969-07-20")},
             {"name": '🎵️ La Flûte enchantée (Mozart)', "date": new Date("1791-09-30")},
             {"name": '🕊️ Armistice Guerre franco-allemande de 1870', "date": new Date("1871-01-29")},
@@ -46,7 +46,7 @@ class GameData {
             {"name": '🇬🇧️ Adhésion du Royaume-Uni à la Communauté économique européenne', "date": new Date("1973-01-01")},
             {"name": '☠️ Guillotinage de Gracchus Babeuf', "date": new Date("1797-05-27")},
             {"name": '👶️ Naissance Abraham Lincoln', "date": new Date("1809-02-12")},
-            {"name": '🗽️ Abraham Lincoln devient Président des États-Unis', "date": new Date("1893-07-06")},
+            {"name": '🗽️ Abraham Lincoln devient Président des États-Unis', "date": new Date("1861-07-06")},
             {"name": '👶️ Naissance Benjamin Franklin', "date": new Date("1706-01-17")},
             {"name": '👑️ Charlemagne devient Empereur d\'Occident', "date": new Date("0800-12-25")},
             {"name": '📺️ Première émission officielle de télévision française', "date": new Date("1935-04-26")},
@@ -61,6 +61,10 @@ class GameData {
             {"name": '🎵️ White Christmas (Bing Crosby)', "date": new Date("1942-05-29")},
             {"name": '🎵️ In the Summertime (Mungo Jerry)', "date": new Date("1970-07-07")},
             {"name": '🎵️ It\'s Now or Never (Elvis Presley)', "date": new Date("1960-07-05")},
+            {"name": '🎵️ It\'s Now or Never (Elvis Presley)', "date": new Date("1960-07-05")},
+            {"name": '🎞️ L\'Arrivée d\'un train en gare de La Ciotat', "date": new Date("1895-12-28")},
+            {"name": '🎞️ Un tramway nommé Désir', "date": new Date("1951-09-18")},
+            {"name": '🎞️ Les Quatre Cents Coups', "date": new Date("1959-06-03")},
         ]
         this.size = this.data.length
     }
