@@ -65,6 +65,13 @@ class GameData {
             {"name": '🎞️ L\'Arrivée d\'un train en gare de La Ciotat', "date": new Date("1895-12-28")},
             {"name": '🎞️ Un tramway nommé Désir', "date": new Date("1951-09-18")},
             {"name": '🎞️ Les Quatre Cents Coups', "date": new Date("1959-06-03")},
+            {"name": '🍺️ Reinheitsgebot (Décret sur la pureté de la bière)', "date": new Date("1516-10-01")},
+            {"name": '🎓️ Aristide Briand prix Nobel de la Paix', "date": new Date("1926-12-10")},
+            {"name": '🎓️ Marie Curie prix Nobel Physique', "date": new Date("1903-12-10")},
+            {"name": '🎓️ Marie Curie prix Nobel Chimie', "date": new Date("1911-12-10")},
+            {"name": '🎞️ Le Mépris', "date": new Date("1963-12-20")},
+            {"name": '📢️ "Je vous ai compris" (Charles de Gaulle)', "date": new Date("1958-06-04")},
+            {"name": '📢️ "Win the "yes" needs the "no" to win against the "no" (Jean-Pierre Raffarin)', "date": new Date("2004-10-29")},
         ]
         this.size = this.data.length
     }
