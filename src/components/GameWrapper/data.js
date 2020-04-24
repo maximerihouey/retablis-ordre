@@ -65,8 +65,8 @@ class GameData {
             {"name": '🎞️ Un tramway nommé Désir', "date": new Date("1951-09-18")},
             {"name": '🎞️ Les Quatre Cents Coups', "date": new Date("1959-06-03")},
             {"name": '⚔️ Bataille d\'Austerlitz', "date": new Date("1804-12-02")},
-            {"name": '⚔️ Bataille de Poitiers', "date": new Date("0732")},
-            {"name": '⚔️ Bataille de Tolbiac', "date": new Date("0496")},
+            {"name": '⚔️ Bataille de Poitiers', "date": new Date("732")},
+            {"name": '⚔️ Bataille de Tolbiac', "date": new Date("496")},
             {"name": '⚔️ Bataille d\'Iena', "date": new Date("1806-10-14")},
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
             {"name": '⚔️ Appel d\'Urbain II à la première croisade', "date": new Date("1095-11-27")},
@@ -74,13 +74,13 @@ class GameData {
             {"name": '⚔️ Coup d\'état de Napoléon Bonaparte', "date": new Date("1799-11-09")},
             {"name": '☠️ Mort du général Charles de Gaulle', "date": new Date("1970-11-09")},
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
-            {"name": '👑️ Sacre Louis IX', "date": new Date("1226-11-29")},
+            {"name": '👑️ Sacre de Louis IX', "date": new Date("1226-11-29")},
             {"name": '⚽️ L\'Olympique de Marseille remporte sa première Ligue des Champions"', "date": new Date("1993-05-26")},
             {"name": '👶️ Naissance de Louis XIV', "date": new Date("1638-09-05")},
             {"name": '⚔️ Bataille du pont d\'Arcole', "date": new Date("1796-11-16")},
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
-            {"name": '☠️ Mort Cardinal Mazarin', "date": new Date("1661-03-09")},
-            {"name": '🇮🇹️ Victoire de Marco Pantani sur le tour de France', "date": new Date("1998-08-02")},
+            {"name": '☠️ Mort du Cardinal Mazarin', "date": new Date("1661-03-09")},
+            {"name": 'Victoire de Marco Pantani sur le tour de France, "date": new Date("1998-08-02")},
             {"name": '🍺️ Reinheitsgebot (Décret sur la pureté de la bière)', "date": new Date("1516-10-01")},
             {"name": '🎓️ Aristide Briand prix Nobel de la Paix', "date": new Date("1926-12-10")},
             {"name": '🎓️ Marie Curie prix Nobel Physique', "date": new Date("1903-12-10")},
@@ -92,12 +92,22 @@ class GameData {
             {"name": '👃️ Coup d\'éclat de Jacques Chirac à Jérusalem', "date": new Date("1996-10-22")},
             {"name": '💪️ Départ du premier Tour de France', "date": new Date("1903-07-01")},
             {"name": '💪️ Vincent Defrasne est sacré chammpion olympique de la poursuite', "date": new Date("2006-02-18")},
+            {"name": '⚔️ Fondation de Rome, "date": new Date("-753-04-21")},
+            {"name": '⚔️ Bataille de Bouvines, "date": new Date("1214-07-27")},
+            {"name": '⚔️ Serments de Strasbourg (Charles le chauve - Louis le germanique), "date": new Date("842-02-14")},
+            {"name": '☠️ Mort de Staline, "date": new Date("1953-03-05")},
+            {"name": '⚔️ Gêne cède la Corse à la France, "date": new Date("1768-05-15")},
+            {"name": '⚔️ Bataille de Bouvines, "date": new Date("1214-07-27")},
+            {"name": '⚔️ Attaque de Pearl Harbor, "date": new Date("1941-12-07")},
+            {"name": 'Ouverture du premier Concile de Nicée, "date": new Date("325-05-20")},
+            {"name": '⚔️ Prise de Jérusalem par les croisés, "date": new Date("1099-07-15")},
+            {"name": '⚔️ Capitulation du Japon à la fin de la seconde guerre mondiale, "date": new Date("1945-09-02")},
         ]
         this.size = this.data.length
     }
 
     someRandomEvents() {
-        var howmany = 4 + Math.floor(Math.random() * Math.floor(5));
+        var howmany = 3 + Math.floor(Math.random() * Math.floor(5));
         return pickRandom(this.data, {count: howmany});
     }
 }
