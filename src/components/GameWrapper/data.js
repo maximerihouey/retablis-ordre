@@ -80,7 +80,7 @@ class GameData {
             {"name": '⚔️ Bataille du pont d\'Arcole', "date": new Date("1796-11-16")},
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
             {"name": '☠️ Mort Cardinal Mazarin', "date": new Date("1661-03-09")},
-            {"name": '🏴️ Victoire de Marco Pantani sur le tour de France', "date": new Date("1998-08-02")},
+            {"name": '🇮🇹️ Victoire de Marco Pantani sur le tour de France', "date": new Date("1998-08-02")},
             {"name": '🍺️ Reinheitsgebot (Décret sur la pureté de la bière)', "date": new Date("1516-10-01")},
             {"name": '🎓️ Aristide Briand prix Nobel de la Paix', "date": new Date("1926-12-10")},
             {"name": '🎓️ Marie Curie prix Nobel Physique', "date": new Date("1903-12-10")},
