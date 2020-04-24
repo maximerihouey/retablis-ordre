@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/retablis-ordre/precache-manifest.bb399f599df6aaace2ec08b85a6b6ddc.js"
+  "/retablis-ordre/precache-manifest.5a1785b6ff2150e563d212e86f2400c6.js"
 );
 
 self.addEventListener('message', (event) => {
