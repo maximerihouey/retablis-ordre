@@ -92,6 +92,7 @@ class GameData {
             {"name": '👃️ Coup d\'éclat de Jacques Chirac à Jérusalem', "date": new Date("1996-10-22")},
             {"name": '💪️ Départ du premier Tour de France', "date": new Date("1903-07-01")},
             {"name": '💪️ Vincent Defrasne est sacré chammpion olympique de la poursuite', "date": new Date("2006-02-18")},
+            {"name": '🎾️ "You cannot be serious" John McEnroe', "date": new Date("1981-06-22")},
         ]
         this.size = this.data.length
     }
