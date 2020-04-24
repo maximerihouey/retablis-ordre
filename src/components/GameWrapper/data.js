@@ -71,7 +71,8 @@ class GameData {
             {"name": '🎓️ Marie Curie prix Nobel Chimie', "date": new Date("1911-12-10")},
             {"name": '🎞️ Le Mépris', "date": new Date("1963-12-20")},
             {"name": '📢️ "Je vous ai compris" (Charles de Gaulle)', "date": new Date("1958-06-04")},
-            {"name": '📢️ "Win the "yes" needs the "no" to win against the "no" (Jean-Pierre Raffarin)', "date": new Date("2004-10-29")},
+            {"name": '📢️ "Win the "yes" needs the "no" to win against the "no"" (Jean-Pierre Raffarin)', "date": new Date("2004-10-29")},
+            {"name": '🎾️ Finale Lendl–McEnroe à Roland-Garros', "date": new Date("1984-06-10")},
         ]
         this.size = this.data.length
     }
