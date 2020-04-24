@@ -73,7 +73,7 @@ class GameData {
             {"name": '📢️ "Je vous ai compris" (Charles de Gaulle)', "date": new Date("1958-06-04")},
             {"name": '📢️ "Win the "yes" needs the "no" to win against the "no"" (Jean-Pierre Raffarin)', "date": new Date("2004-10-29")},
             {"name": '🎾️ Finale Lendl–McEnroe à Roland-Garros', "date": new Date("1984-06-10")},
-            {"name": '👃️ Coup de gueule de Jacques Chirac en Israel', "date": new Date("1996-10-22")},
+            {"name": '👃️ Coup d\'éclat de Jacques Chirac à Jérusalem', "date": new Date("1996-10-22")},
             {"name": '💪️ Départ du premier Tour de France', "date": new Date("1903-07-01")},
             {"name": '💪️ Vincent Defrasne est sacré chammpion olympique de la poursuite', "date": new Date("2006-02-18")},
         ]
