@@ -111,7 +111,7 @@ class GameData {
     }
 
     someRandomEvents() {
-        var howmany = 3 + Math.floor(Math.random() * Math.floor(5));
+        var howmany = 4 + Math.floor(Math.random() * Math.floor(5));
         return pickRandom(this.data, {count: howmany});
     }
 }
