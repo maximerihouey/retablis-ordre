@@ -105,7 +105,8 @@ class GameData {
             {"name": '🎵️ One Way Ticket (Eruption)', "date": new Date("1979-04-21")},
             {"name": '🎵️ It\'s Not Unusual (Tom Jones)', "date": new Date("1965-01-19")},
             {"name": '🎵️ Sunday Bloody Sunday (U2)', "date": new Date("1983-03-21")},
-
+            {"name": '📖️ Tu parles d\'une ingénue - Ici OSS 117 (Jean Bruce)', "date": new Date("1949-08-17")},
+            {"name": '📖️ Casino Royale (Ian Fleming)', "date": new Date("1953-04-13")},
         ]
         this.size = this.data.length
     }
