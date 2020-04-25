@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b112f3fca598a272fe41ee0bc1d94300",
+    "revision": "c2b847c789584c2d1aff408f13561245",
     "url": "/retablis-ordre/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retablis-ordre/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "78ff683f82cc56389616",
+    "revision": "20d22d23ea6308583e1c",
     "url": "/retablis-ordre/static/css/main.95f0b24e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retablis-ordre/static/js/2.49a1ba58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78ff683f82cc56389616",
-    "url": "/retablis-ordre/static/js/main.b6dc956c.chunk.js"
+    "revision": "20d22d23ea6308583e1c",
+    "url": "/retablis-ordre/static/js/main.f7b00dc0.chunk.js"
   },
   {
     "revision": "3c3769ce4fa4d4d57f3a",
