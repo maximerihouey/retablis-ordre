@@ -66,7 +66,6 @@ class GameData {
             {"name": '🎞️ Les Quatre Cents Coups', "date": new Date("1959-06-03")},
             {"name": '⚔️ Bataille d\'Austerlitz', "date": new Date("1804-12-02")},
             {"name": '⚔️ Bataille de Poitiers', "date": new Date("0732")},
-            {"name": '⚔️ Bataille de Tolbiac', "date": new Date("0496")},
             {"name": '⚔️ Bataille d\'Iena', "date": new Date("1806-10-14")},
             {"name": '⚔️ Bataille d\'Eylau', "date": new Date("1807-02-08")},
             {"name": '⚔️ Appel d\'Urbain II à la première croisade', "date": new Date("1095-11-27")},
