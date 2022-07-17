@@ -1,5 +1,5 @@
 import React from 'react';
-import arrayMove from 'array-move';
+import { arrayMoveImmutable } from 'array-move';
 import cloneDeep from 'clone-deep';
 
 import Timeline from '../Timeline';
@@ -13,7 +13,7 @@ export default class GameBoard extends React.Component {
 
   onSortEnd = ({oldIndex, newIndex}) => {
     this.setState(({items}) => ({
-      items: arrayMove(items, oldIndex, newIndex),
+      items: arrayMoveImmutable(items, oldIndex, newIndex),
     }));
   };
 
@@ -48,8 +48,6 @@ export default class GameBoard extends React.Component {
     } else {
       var sortedItems = Array.from(this.state.items).sort((a, b) => a.date - b.date);
       var itemsWithFlag = cloneDeep(this.state.items);
-      console.log(sortedItems);
-      console.log(itemsWithFlag);
       if (itemsWithFlag[0].date <= sortedItems[0].date) {
         itemsWithFlag[0].extraClass = "answer_ok";
       } else {
@@ -62,8 +60,6 @@ export default class GameBoard extends React.Component {
             itemsWithFlag[index].extraClass = "answer_ko";
           }
       }
-      console.log("sortedItems", sortedItems);
-      console.log("itemsWithFlag", itemsWithFlag);
       return (
             <div className="container">
             <div className="row">
