@@ -2,6 +2,12 @@ Hosted at: https://maximerihouey.github.io/retablis-ordre/
 
 To add events modify the file: https://github.com/maximerihouey/retablis-ordre/blob/master/src/components/GameWrapper/data.js
 
+# Screenhot of gameplay
+
+![Screenshot](resources/example-6-before.png)
+
+![Screenshot](resources/example-6-after.png)
+
 
 
 
