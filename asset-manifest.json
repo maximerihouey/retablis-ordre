@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/retablis-ordre/static/css/main.75dd89a5.chunk.css",
-    "main.js": "/retablis-ordre/static/js/main.547cd1be.chunk.js",
-    "main.js.map": "/retablis-ordre/static/js/main.547cd1be.chunk.js.map",
+    "main.css": "/retablis-ordre/static/css/main.a55e28a4.chunk.css",
+    "main.js": "/retablis-ordre/static/js/main.e2243f93.chunk.js",
+    "main.js.map": "/retablis-ordre/static/js/main.e2243f93.chunk.js.map",
     "runtime-main.js": "/retablis-ordre/static/js/runtime-main.a173af1e.js",
     "runtime-main.js.map": "/retablis-ordre/static/js/runtime-main.a173af1e.js.map",
-    "static/css/2.1ebb0010.chunk.css": "/retablis-ordre/static/css/2.1ebb0010.chunk.css",
-    "static/js/2.4f891310.chunk.js": "/retablis-ordre/static/js/2.4f891310.chunk.js",
-    "static/js/2.4f891310.chunk.js.map": "/retablis-ordre/static/js/2.4f891310.chunk.js.map",
+    "static/css/2.7f1403ef.chunk.css": "/retablis-ordre/static/css/2.7f1403ef.chunk.css",
+    "static/js/2.f7e74e28.chunk.js": "/retablis-ordre/static/js/2.f7e74e28.chunk.js",
+    "static/js/2.f7e74e28.chunk.js.map": "/retablis-ordre/static/js/2.f7e74e28.chunk.js.map",
     "index.html": "/retablis-ordre/index.html",
-    "precache-manifest.becd87a9d50e37a73f73f3e792ede19c.js": "/retablis-ordre/precache-manifest.becd87a9d50e37a73f73f3e792ede19c.js",
+    "precache-manifest.663e84480a6a39fc45ef7538567e8dc8.js": "/retablis-ordre/precache-manifest.663e84480a6a39fc45ef7538567e8dc8.js",
     "service-worker.js": "/retablis-ordre/service-worker.js",
-    "static/css/2.1ebb0010.chunk.css.map": "/retablis-ordre/static/css/2.1ebb0010.chunk.css.map",
-    "static/css/main.75dd89a5.chunk.css.map": "/retablis-ordre/static/css/main.75dd89a5.chunk.css.map",
-    "static/js/2.4f891310.chunk.js.LICENSE.txt": "/retablis-ordre/static/js/2.4f891310.chunk.js.LICENSE.txt"
+    "static/css/2.7f1403ef.chunk.css.map": "/retablis-ordre/static/css/2.7f1403ef.chunk.css.map",
+    "static/css/main.a55e28a4.chunk.css.map": "/retablis-ordre/static/css/main.a55e28a4.chunk.css.map",
+    "static/js/2.f7e74e28.chunk.js.LICENSE.txt": "/retablis-ordre/static/js/2.f7e74e28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a173af1e.js",
-    "static/css/2.1ebb0010.chunk.css",
-    "static/js/2.4f891310.chunk.js",
-    "static/css/main.75dd89a5.chunk.css",
-    "static/js/main.547cd1be.chunk.js"
+    "static/css/2.7f1403ef.chunk.css",
+    "static/js/2.f7e74e28.chunk.js",
+    "static/css/main.a55e28a4.chunk.css",
+    "static/js/main.e2243f93.chunk.js"
   ]
 }
