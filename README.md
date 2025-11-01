@@ -9,13 +9,18 @@ To add events modify the file: https://github.com/maximerihouey/retablis-ordre/b
 ![Screenshot](resources/example-6-after.png)
 
 
-
 # Setup Yarn/NPM/Node using NVM
 ```
 nvm use 22
 npm install --global yarn
 ```
 
+# Deploy on Github Pages
+```
+yarn install
+yarn build
+yarn deploy
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
