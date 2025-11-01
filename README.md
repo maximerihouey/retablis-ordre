@@ -10,8 +10,11 @@ To add events modify the file: https://github.com/maximerihouey/retablis-ordre/b
 
 
 
-
-
+# Setup Yarn/NPM/Node using NVM
+```
+nvm use 22
+npm install --global yarn
+```
 
 
 
