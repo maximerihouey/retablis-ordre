@@ -106,7 +106,7 @@ class GameData {
             {"name": '📖️ Casino Royale (Ian Fleming)', "date": new Date("1953-04-13")},
             {"name": '📖️ Harry Potter à l\'école des sorciers', "date": new Date("1997-06-26")},
             {"name": '🚧 Inauguration de la 1ere ligne de Métro de Paris', "date": new Date("1900-07-19")},
-            {"name": '🚧 Inauguration de l'Opéra Garnier', "date": new Date("1875-01-05")},
+            {"name": '🚧 Inauguration de l\'Opéra Garnier', "date": new Date("1875-01-05")},
             {"name": '🚧 Pose de la première pierre du Pont Neuf', "date": new Date("1578-05-31")},
             {"name": '🚧 Inauguration du pont Alexandre-III', "date": new Date("1900-04-14")},
             {"name": '🚧 Inauguration du Théâtre du Châtelet', "date": new Date("1862-04-19")},
