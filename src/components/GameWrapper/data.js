@@ -104,7 +104,6 @@ class GameData {
             {"name": '🎵️ Sunday Bloody Sunday (U2)', "date": new Date("1983-03-21")},
 //            {"name": '📖️ Tu parles d\'une ingénue - Ici OSS 117 (Jean Bruce)', "date": new Date("1949-08-17")},
             {"name": '📖️ Casino Royale (Ian Fleming)', "date": new Date("1953-04-13")},
-            {"name": '📖️ Casino Royale (Ian Fleming)', "date": new Date("1953-04-13")}',
             {"name": '📖️ Harry Potter à l\'école des sorciers', "date": new Date("1997-06-26")},
             {"name": '🚧 Inauguration de la 1ere ligne de Métro de Paris', "date": new Date("1900-07-19")},
             {"name": '🚧 Inauguration de l'Opéra Garnier', "date": new Date("1875-01-05")},
