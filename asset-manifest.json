@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/retablis-ordre/static/css/main.a554867b.css",
-    "main.js": "/retablis-ordre/static/js/main.f221487a.js",
+    "main.js": "/retablis-ordre/static/js/main.dfd85da4.js",
     "index.html": "/retablis-ordre/index.html",
     "main.a554867b.css.map": "/retablis-ordre/static/css/main.a554867b.css.map",
-    "main.f221487a.js.map": "/retablis-ordre/static/js/main.f221487a.js.map"
+    "main.dfd85da4.js.map": "/retablis-ordre/static/js/main.dfd85da4.js.map"
   },
   "entrypoints": [
     "static/css/main.a554867b.css",
-    "static/js/main.f221487a.js"
+    "static/js/main.dfd85da4.js"
   ]
 }
